@@ -1,0 +1,108 @@
+Sales Performance Dashboard (Excel)
+📌 Project Overview
+
+This project analyzes sales transaction data to uncover trends, performance drivers, and customer purchasing behavior. The dashboard was built in Microsoft Excel using PivotTables, PivotCharts, slicers, and calculated fields to support business decision-making.
+
+🎯 Objectives
+
+Measure overall sales performance
+
+Identify top-performing products and cities
+
+Analyze sales trends over time (monthly, weekly, hourly)
+
+Understand customer purchasing patterns
+
+Provide actionable business insights
+
+🧾 Dataset Description
+
+The dataset contains order-level sales data with the following fields:
+
+Order ID
+
+Product
+
+Quantity Ordered
+
+Price Each
+
+Sales
+
+Order Date
+
+City
+
+Month
+
+Hour
+
+Day of Week
+
+Estimated Profit (calculated)
+
+🔑 Key KPIs
+
+Total Sales
+
+Total Orders
+
+Units Sold (Total Quantity Ordered)
+
+Estimated Profit
+
+Top-Selling Product
+
+Top-Selling City
+
+📈 Dashboard Features
+
+Monthly Sales Trend to identify seasonality
+
+Weekly Sales Analysis to compare day-of-week performance
+
+Hourly Sales Trend to detect peak purchasing periods
+
+Top Products Analysis to understand revenue drivers
+
+Geographic Analysis highlighting top-performing cities
+
+Interactive Slicers (Month, Day of Week, Hour) for dynamic filtering
+
+💡 Key Insights
+
+San Francisco is the top-selling city, driven mainly by high-value electronics.
+
+MacBook Pro laptops generate the highest revenue among all products.
+
+Sales show strong seasonal patterns, with higher performance in peak months.
+
+Evening hours record the highest sales activity, indicating after-work purchasing behavior.
+
+Certain weekdays consistently outperform others, suggesting opportunities for targeted promotions.
+
+🛠 Tools & Techniques Used
+
+Microsoft Excel
+
+PivotTables & PivotCharts
+
+GETPIVOTDATA
+
+Custom number formatting (K/M notation)
+
+Slicers for interactivity
+
+Calculated fields and derived columns
+
+🚀 Outcome
+
+This dashboard provides a clear, interactive view of sales performance and can be used by business stakeholders to:
+
+Improve inventory planning
+
+Optimize marketing timing
+
+Focus on high-value products and regions
+
+Support data-driven decision-making
